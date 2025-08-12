@@ -1,0 +1,32 @@
+What is the capital of India?
+Delhi
+Mumbai
+Kolkata
+Channai
+A
+10
+100000
+What is the popular classical dance form of northern India?
+Kathak
+Bharatanatyam
+Kuchipudi
+Odissi
+A
+10
+500000
+Which city is known as the "Silicon Valey of India"?
+Hydrabad
+Bangalore
+chennai
+Mumbai
+B
+10
+2500000
+Who Wrote the national anthem of India?
+Mahatma Gandhi
+Bankim Chandra Chattarjee
+Rabindranath Tagore
+Sarojini Naidu
+C
+10
+5000000
